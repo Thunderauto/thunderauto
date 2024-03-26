@@ -2,7 +2,7 @@
   "name": "thunder",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://thunderauto.github.io/thunderauto/",
+  "homepage": "https://thunderauto.github.io/thunderauto",
   "type": "module",
   "scripts": {
     "dev": "vite",
